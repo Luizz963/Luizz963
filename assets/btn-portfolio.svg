@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="248" height="54" viewBox="0 0 248 54" role="img" aria-label="Open my portfolio">
-<title>Open my portfolio</title>
-<rect x="1" y="1" width="246" height="52" rx="12" fill="#ff7a45" stroke="#ff7a45" stroke-width="1.5"/>
-<text x="22" y="33" fill="#000" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Inter,'Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="700">Open my portfolio</text>
-<path d="M214 33l11-11M217 22h8v8" fill="none" stroke="#000" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
