@@ -1,4 +1,4 @@
-<img src="./assets/banner.svg" width="100%" alt="Luizz963 / back-end developer · machine learning & AI developer">
+<img src="./assets/banner-v2.svg" width="100%" alt="Luizz963 / back-end developer · machine learning & AI developer">
 
 ## About me
 
@@ -11,11 +11,11 @@ Since August 2025 I've worked as a back-end developer intern in a production env
 <a id="menu"></a>
 
 <p>
-  <a href="#projects"><img src="./assets/menu-projects.svg" alt="Projects"></a>
-  <a href="#stack"><img src="./assets/menu-stack.svg" alt="Stack"></a>
-  <a href="#experience"><img src="./assets/menu-experience.svg" alt="Experience"></a>
-  <a href="#education"><img src="./assets/menu-education.svg" alt="Education"></a>
-  <a href="#contact"><img src="./assets/menu-contact.svg" alt="Contact"></a>
+  <a href="#projects"><img src="./assets/menu-projects-v2.svg" alt="Projects"></a>
+  <a href="#stack"><img src="./assets/menu-stack-v2.svg" alt="Stack"></a>
+  <a href="#experience"><img src="./assets/menu-experience-v2.svg" alt="Experience"></a>
+  <a href="#education"><img src="./assets/menu-education-v2.svg" alt="Education"></a>
+  <a href="#contact"><img src="./assets/menu-contact-v2.svg" alt="Contact"></a>
 </p>
 
 ## Projects
