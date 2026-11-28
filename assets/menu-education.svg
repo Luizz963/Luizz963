@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="144" height="44" viewBox="0 0 144 44" role="img" aria-label="Education">
 <title>Education</title>
 <rect x="1" y="1" width="142" height="42" rx="10" fill="#0f0f11" stroke="#2a2a30" stroke-width="1.5"/>
-<rect x="16" y="17" width="10" height="10" fill="#ffd23f"/>
+<rect x="16" y="17" width="10" height="10" fill="#3b8fd9"/>
 <text x="36" y="27.5" fill="#f4f4f5" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Inter,'Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="600">Education</text>
 </svg>
